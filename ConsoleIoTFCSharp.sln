@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationIoTF", "ApplicationIoTF\ApplicationIoTF.csproj", "{2A682AAB-E0FD-467D-8E1D-47B4892A0947}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M2Mqtt", "M2Mqtt\M2Mqtt.csproj", "{A11AEF5A-B246-4FE8-8330-06DB73CC8074}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceIoTF", "DeviceIoTF\DeviceIoTF.csproj", "{3035DD59-7AF8-44C5-9E51-8C0302E7681E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A682AAB-E0FD-467D-8E1D-47B4892A0947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A682AAB-E0FD-467D-8E1D-47B4892A0947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A682AAB-E0FD-467D-8E1D-47B4892A0947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A682AAB-E0FD-467D-8E1D-47B4892A0947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A11AEF5A-B246-4FE8-8330-06DB73CC8074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A11AEF5A-B246-4FE8-8330-06DB73CC8074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A11AEF5A-B246-4FE8-8330-06DB73CC8074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A11AEF5A-B246-4FE8-8330-06DB73CC8074}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3035DD59-7AF8-44C5-9E51-8C0302E7681E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3035DD59-7AF8-44C5-9E51-8C0302E7681E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3035DD59-7AF8-44C5-9E51-8C0302E7681E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3035DD59-7AF8-44C5-9E51-8C0302E7681E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

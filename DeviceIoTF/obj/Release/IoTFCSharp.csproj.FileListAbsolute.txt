@@ -1,0 +1,8 @@
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Release\IoTFAssembly.exe.config
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Release\IoTFAssembly.exe
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Release\IoTFAssembly.pdb
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Release\M2Mqtt.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Release\M2Mqtt.pdb
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Release\IoTFCSharp.csprojResolveAssemblyReference.cache
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Release\IoTFAssembly.exe
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Release\IoTFAssembly.pdb

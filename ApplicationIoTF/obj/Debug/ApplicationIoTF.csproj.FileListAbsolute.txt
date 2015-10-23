@@ -1,0 +1,8 @@
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ApplicationIoTF\obj\Debug\ApplicationIoTF.csprojResolveAssemblyReference.cache
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ApplicationIoTF\bin\Debug\ApplicationIoTF.exe.config
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ApplicationIoTF\bin\Debug\ApplicationIoTF.exe
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ApplicationIoTF\bin\Debug\ApplicationIoTF.pdb
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ApplicationIoTF\bin\Debug\M2Mqtt.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ApplicationIoTF\bin\Debug\M2Mqtt.pdb
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ApplicationIoTF\obj\Debug\ApplicationIoTF.exe
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ApplicationIoTF\obj\Debug\ApplicationIoTF.pdb

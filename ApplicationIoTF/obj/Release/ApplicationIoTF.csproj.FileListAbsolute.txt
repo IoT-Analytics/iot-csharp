@@ -1,0 +1,10 @@
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ApplicationIoTF\bin\Release\ApplicationIoTF.exe.config
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ApplicationIoTF\bin\Release\ApplicationIoTF.exe
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ApplicationIoTF\bin\Release\ApplicationIoTF.pdb
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ApplicationIoTF\bin\Release\M2Mqtt.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ApplicationIoTF\bin\Release\M2Mqtt.pdb
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ApplicationIoTF\obj\Release\ApplicationIoTF.csprojResolveAssemblyReference.cache
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ApplicationIoTF\obj\Release\ApplicationIoTF.exe
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ApplicationIoTF\obj\Release\ApplicationIoTF.pdb
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ApplicationIoTF\bin\Release\log4net.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ApplicationIoTF\bin\Release\log4net.xml
