@@ -140,7 +140,7 @@ namespace com.ibm.iotf.client
             this.commandCallback(tokens[2], tokens[4], result);
         }
 
-        public delegate void processCommand(String cmdName, string format, string data);
+        public delegate void processCommand(string cmdName, string format, string data);
 
         public event processCommand commandCallback;
     
