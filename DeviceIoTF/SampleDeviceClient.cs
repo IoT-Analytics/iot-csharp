@@ -25,7 +25,7 @@ namespace com.ibm.iotf.client.device.sample
             DeviceClient deviceClient = new DeviceClient("j82zgk", "TestType", "9663155111", "token", "y1&_!98TlxScdk?hqP");
 
             deviceClient.connect();
-            deviceClient.publishEvent("temp", "json", "{temp:23}", 2);
+            deviceClient.publishEvent("temp", "json", "{\"temp\":\"23\"}", 2);
             deviceClient.subscribeCommand("testcmd","json",0);
             deviceClient.commandCallback += processCommand; 
 
